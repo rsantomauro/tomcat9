@@ -6,7 +6,7 @@
 
 ## KB GeneXus
 Set in your property "Docker base image property" with the value "rsantomauro/basics:X"
-Where "X" is the tag.
+Where "X" is the tag. 
 
 ## Docker use
 
